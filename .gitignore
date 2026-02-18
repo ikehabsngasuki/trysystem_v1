@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# venv
+venv/
+.venv/
+
+# OS/Editor
+.DS_Store
+.vscode/
+
+# DB / local artifacts
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.log
+
+# env
+.env

@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# venv
+venv/
+.venv/
+
+# OS/Editor
+.DS_Store
+.vscode/
+
+# DB / local artifacts
+*.db
+*.db.*
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.sqlite*
+*.log
+school_v1
+school_v1db.
+
+# env
+.env
+.env.*
+!.env.example
+
+# Private import/export data
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.ods
+*.numbers
+*.zip
+*.7z
+*.tar
+*.gz
+*.bak
+*:Zone.Identifier
+
+# Local uploads and generated files
+uploads/
+exports/
+tmp/
+temp/
